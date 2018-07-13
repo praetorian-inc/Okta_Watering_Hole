@@ -40,10 +40,10 @@ Options:
 
 
 # Screen Caps
-![Screen_Shot_2018-06-15_at_7.51.06_PM](/uploads/bad7dbcfa94b6c503a815712b8758d2e/Screen_Shot_2018-06-15_at_7.51.06_PM.png)
+![alt text](https://github.com/praetorian-inc/Okta_Watering_Hole/blob/master/images/command.png)
 
-![Screen_Shot_2018-06-15_at_7.47.54_PM](/uploads/7674a788c39d80fbc2ea7df972ca6b97/Screen_Shot_2018-06-15_at_7.47.54_PM.png)
+![alt text](https://github.com/praetorian-inc/Okta_Watering_Hole/blob/master/images/compare.png)
 
-![Screen_Shot_2018-06-15_at_7.49.10_PM](/uploads/db4e59d578d5ee3ff208e1b607cb9011/Screen_Shot_2018-06-15_at_7.49.10_PM.png)
+![alt text](https://github.com/praetorian-inc/Okta_Watering_Hole/blob/master/images/two_factors.png)
 
-![Screen_Shot_2018-06-15_at_7.53.16_PM](/uploads/b3f30c906a212b27aa04e68afe97db70/Screen_Shot_2018-06-15_at_7.53.16_PM.png)
+![alt text](https://github.com/praetorian-inc/Okta_Watering_Hole/blob/master/images/results.png)
