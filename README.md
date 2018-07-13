@@ -7,9 +7,7 @@ It supports a variety of options and should work out of the box to man in the mi
 
 Two servers will be created and running, as well as several supporting threads. Reserved ports are 443 and 4158 or (phish), if desired the port can be changed in the source. 
 
-
-
-Please see the wiki on the left for debugging / development.
+*Note - The sessions thread can take a few minutes to quit due to the sleep timer
 
 
 # Usage
