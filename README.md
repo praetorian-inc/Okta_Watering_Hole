@@ -5,8 +5,8 @@ Okta Watering Hole is an automated tool for setting up an advanced Okta phishing
 
 It supports a variety of options and should work out of the box to man in the middle all non-U2F 2FA factors. (If a given user has a U2F factor, they are prevented from using it on this phishing site)
 
-Two servers will be created and running, as well as several supporting threads. Reserved ports are 4298 and 4158 or (phish). 
-Use NGINX, or another routing tool to serve 4298 through port 443. (Alternatively, update the main server port to serve on 443 and use root)
+Two servers will be created and running, as well as several supporting threads. Reserved ports are 443 and 4158 or (phish), if desired the port can be changed in the source. 
+
 
 
 Please see the wiki on the left for debugging / development.
